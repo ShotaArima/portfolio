@@ -1,3 +1,3 @@
 # portfolio
 ポートフォリオサイト
-https://shotaarima/github.io/portfolio
+https://shotaarima.github.io/portfolio
